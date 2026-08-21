@@ -1,0 +1,185 @@
+header	{
+	color: white;
+	background-color: blue;
+	padding: 10px;
+	border-radius: 10px;
+	}
+
+h3	{
+	background-color: white;
+	color: blue;
+	border-radius: 10px;
+	padding: 0;
+	margin: 0;
+	}
+section	{
+	padding: 10px;
+	font-size: 25px;
+	}
+div	{
+	display: block;
+	}
+.profile	{
+		position: relative;
+	        width: 35rem;
+	        height: 15rem;
+	        margin: 20px auto 20px auto;
+          	}
+.profile-pic	{
+              	display: flex;
+		width: 15rem;
+		height: 15rem;
+		border-radius: 10px;
+		position: relative;
+		top: 0;
+		left: 0;
+		justify-content: center;
+		align-items: center;
+		margin: 0 auto 20px auto;
+              	}
+.profile-bg {
+            background-repeat: no-repeat;
+            background-size: auto;
+            background-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            z-index: -1;
+            }
+.profile-pic	{
+		z-index: 2;
+              	}
+p	{
+	color: white;
+	background-color: blue;
+	text-justify: initial;
+	text-align: justify;
+	font-weight: bold;
+	border-radius: 10px;
+	padding: 10px;
+	}
+.skill	{
+	display: flex;
+	box-sizing: border-box;
+	margin: auto;
+	justify-content: center;
+	}
+.skill table	{
+		border-collapse: collapse;
+		border: 2px solid #333;
+		width: 80%;
+		}
+.skill th   	{
+      		background-color: blue;
+      		color: white;
+		border: 1px solid #ccc;
+		padding: 8px;
+		text-align: left;
+		white-space: nowrap;
+		}
+.skill td	{
+            	border: 1px solid #ccc;
+		padding: 8px;
+		text-align: left;
+		white-space: nowrap;
+            	}
+.skill tr:nth-child(odd)	{
+                        	background-color: #517dc4;
+                        	color: white;
+                        	}
+.edu	{
+	display: flex;
+	box-sizing: border-box;
+	margin: auto;
+	justify-content: center;
+	}
+.edu table	{
+		border-collapse: collapse;
+		border: 2px solid #333;
+		width: 80%;
+		}
+.edu th	{
+      	background-color: blue;
+      	color: white;
+	border: 1px solid #ccc;
+      	padding: 10px;
+      	text-align: left;
+	white-space: nowrap;
+	}
+.edu td	{
+	border: 1px solid #ccc;
+      	padding: 10px;
+      	text-align: left;
+	white-space: nowrap;
+	}
+.edu tr:nth-child(even) {
+                        background-color: #517dc4;
+                        color: white;
+                        }
+.project    {
+        display: flex;
+        box-sizing: border-box;
+        margin: auto;
+        justify-content: center;
+        }
+.project table      {
+                border-collapse: collapse;
+                border: 2px solid #333;
+                width: 80%;
+                }
+.project th {
+        background-color: blue;
+        color: white;
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+        white-space: nowrap;
+        }
+.project td {
+        border: 1px solid #ccc;
+        padding: 5px;
+        text-align: center;
+        white-space: nowrap;
+        }
+.project tr:nth-child(even) {
+                        background-color: #517dc4;
+                        color: white;
+                        }
+.ugpro	{
+	height: 400px;
+	width: 430px;
+	}
+.pgpro	{
+	height:400px;
+	width: 500px;
+	}
+.fa-envelope, .fa-phone, .fa-telegram	{
+					color: white;
+					background-color: blue;
+					}
+.fa	{
+	padding: 20px;
+	text-decoration: None;
+	}
+.contact	{
+		font-size: 25px;
+		}
+video	{
+	width: 100%;
+	max-width: 700px;
+	height: auto;
+	border-radius: 10px;
+	}
+.copyright	{
+		color: white;
+		background-color: blue;
+		padding: 10px;
+		border-radius: 10px;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		}
+footer	{
+	padding: 10px;
+	}
