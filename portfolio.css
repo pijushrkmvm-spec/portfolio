@@ -76,13 +76,13 @@ p	{
 		border: 1px solid #ccc;
 		padding: 8px;
 		text-align: left;
-		white-space: nowrap;
+		/* white-space: nowrap; */
 		}
 .skill td	{
             	border: 1px solid #ccc;
 		padding: 8px;
 		text-align: left;
-		white-space: nowrap;
+		/* white-space: nowrap; */
             	}
 .skill tr:nth-child(odd)	{
                         	background-color: #517dc4;
@@ -105,13 +105,13 @@ p	{
 	border: 1px solid #ccc;
       	padding: 10px;
       	text-align: left;
-	white-space: nowrap;
+	/* white-space: nowrap; */
 	}
 .edu td	{
 	border: 1px solid #ccc;
       	padding: 10px;
       	text-align: left;
-	white-space: nowrap;
+	/* white-space: nowrap; */
 	}
 .edu tr:nth-child(even) {
                         background-color: #517dc4;
@@ -134,13 +134,13 @@ p	{
         border: 1px solid #ccc;
         padding: 10px;
         text-align: center;
-        white-space: nowrap;
+        /* white-space: nowrap; */
         }
 .project td {
         border: 1px solid #ccc;
         padding: 5px;
         text-align: center;
-        white-space: nowrap;
+        /* white-space: nowrap; */
         }
 .project tr:nth-child(even) {
                         background-color: #517dc4;
